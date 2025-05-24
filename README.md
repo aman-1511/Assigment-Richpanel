@@ -13,6 +13,13 @@ This project is a **Facebook Helpdesk** web application built as a proof-of-conc
 
 
 ---
+## 🎥 Demo Video
+
+[Loom Video Walkthrough](https://www.loom.com/share/4071638ebd9a471c8aaea4c42f0a488c?sid=a6903d5c-8044-4787-b020-940de3875124)
+
+
+
+---
 
 ## Features
 - **User Authentication:** Register and login with email and password.
