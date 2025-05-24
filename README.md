@@ -5,7 +5,11 @@ This project is a **Facebook Helpdesk** web application built as a proof-of-conc
 
 ---
 ## Screenshots
-(See assignment for reference UI screenshots)
+![Image](https://github.com/user-attachments/assets/599d3d23-c001-47b6-8a6b-e88cf9bd3e8e)
+![Image](https://github.com/user-attachments/assets/06f3bf6b-f4f9-44be-afc1-4f0ef3b13198)
+![Image](https://github.com/user-attachments/assets/0d54c305-bd53-4666-b0ca-e53e87323734)
+![Image](https://github.com/user-attachments/assets/4326ccc8-350d-4be3-a85c-29c87c85174f)
+![Image](https://github.com/user-attachments/assets/147b12c0-c216-43ae-8526-1e442e2e71b2)
 
 
 ---
